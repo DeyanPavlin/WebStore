@@ -5,17 +5,30 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
     <link rel="stylesheet" href="~/css/site.css">
     <link rel="stylesheet" href="~/css/layout.css">
+    <script src="~/js/JavaScript.js" defer></script>
+
 </head>
 <body>
+    <script>
+        const theme = localStorage.getItem('darkmode') || 'light';
+        if (theme === 'active') {
+            document.body.classList.add('darkmode');
+        }
+    </script>
+
 
     <header>
 
-        <a href="#" class="logo">Book<span>stoW</span></a>
+        <a asp-controller="Home" asp-action="Index" class="logo">Book<span>stoW</span></a>
 
-        <div class="icons">
-            <a onclick="myFunction()" href="#" class="fa-sharp fa-solid fa-eye"></a>
+        <a href="#" class="button">SHOP NOW!</a>
+
+        <div class="icons"> 
+            <button id="theme-switch" class="icon-button">
+                <i class="fa-sharp fa-solid fa-eye"></i>
+            </button>
             <a href="cart.html" class="fa-sharp fa-solid fa-cart-shopping"></a>
-            <a href="info.html" class="fa-sharp fa-solid fa-circle-info"></a>
+            <a asp-controller="Home" asp-action="Privacy" class="fa-sharp fa-solid fa-circle-info"></a>
         </div>
 
     </header>
@@ -26,6 +39,5 @@
 
     </main>
 
-    <script src="~/js/JavaScript.js"></script>
 </body>
 </html>

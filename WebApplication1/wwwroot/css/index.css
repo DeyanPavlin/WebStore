@@ -39,9 +39,9 @@
     font-size: 1.7rem;
 }
 
-    .btn:hover {
-        background: var(--purple);
-    }
+.btn:hover {
+    background: var(--purple);
+}
 
 .pictures img {
     max-width: 100%;

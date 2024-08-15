@@ -1,0 +1,32 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+:root {
+    --yellow: #F4BB44;
+    --purple: #a020f0;
+}
+
+h1 {
+    font-size: 12rem;
+    color: var(--purple);
+    text-align: center
+}
+
+p {
+    font-size: 2rem;
+    color: var(--purple);
+    text-align: center;
+    margin-top: 100px;
+}
+
+p a{
+    text-decoration: underline;
+}
+
+p span {
+    color: var(--yellow)
+}
