@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+    <link rel="stylesheet" href="~/css/site.css">
+    <link rel="stylesheet" href="~/css/layout.css">
+</head>
+<body>
+
+    <header>
+
+        <a href="#" class="logo">Book<span>stoW</span></a>
+
+        <div class="icons">
+            <a onclick="myFunction()" href="#" class="fa-sharp fa-solid fa-eye"></a>
+            <a href="cart.html" class="fa-sharp fa-solid fa-cart-shopping"></a>
+            <a href="info.html" class="fa-sharp fa-solid fa-circle-info"></a>
+        </div>
+
+    </header>
+    
+    <main>
+        @RenderBody()
+
+
+    </main>
+
+    <script src="~/js/JavaScript.js"></script>
+</body>
+</html>
