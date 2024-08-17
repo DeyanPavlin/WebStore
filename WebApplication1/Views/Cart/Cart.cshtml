@@ -1,0 +1,47 @@
+﻿@model IEnumerable<WebApplication1.Models.CartItem>
+
+<link rel="stylesheet" href="~/css/cart.css">
+
+<h1>Your Shopping Cart</h1>
+
+@if (Model != null && Model.Any())
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Total</th>
+                <td>
+                    <form asp-action="ClearCart" method="post">
+                <button>Clear Cart</button>
+                    </form>
+                </td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Product.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Product.Price.ToString("C")</td>
+                    <td>@item.TotalPrice.ToString("C")</td>
+                    <td>
+                        <button onclick="removeFromCart('@item.Product.Name')">Remove</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="position-wrapper">
+        <form asp-controller="Home" asp-action="Checkout">
+            <button type="submit" class="btn">Total Price: @ViewBag.TotalPrice.ToString("C")</button>
+        </form>
+    </div>
+}
+else
+{
+    <p>Your cart is empty.</p>
+}

@@ -1,7 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WebApplication1.Repos;
-using System.Collections.Generic;
-using System.IO;
 using WebApplication1.Models;
 
 namespace WebApplication1.Controllers
@@ -38,7 +36,7 @@ namespace WebApplication1.Controllers
 
                     var newProduct = new Product
                     {
-                        Name = productName,
+                        Name = productName.ToUpper(),
                         Info = productInfo,
                         Price = productPrice,
                         ImageUrl = $"/images/{fileName}"
@@ -56,13 +54,5 @@ namespace WebApplication1.Controllers
                 return Json(new { success = false, message = ex.Message });
             }
         }
-    }
-
-    public class Product
-    {
-        public string Name { get; set; }
-        public string Info { get; set; }
-        public decimal Price { get; set; }
-        public string ImageUrl { get; set; }
     }
 }

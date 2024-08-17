@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
     },
     {
+      "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\Cart.css",
+      "PackagePath": "staticwebassets\\css\\Cart.css"
+    },
+    {
       "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
     },
@@ -37,16 +41,20 @@
       "PackagePath": "staticwebassets\\images\\github.png"
     },
     {
-      "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\images\\movies-series-box-set-folder-icons-harrypotter-png-clipart-thumbnail.jpg",
-      "PackagePath": "staticwebassets\\images\\movies-series-box-set-folder-icons-harrypotter-png-clipart-thumbnail.jpg"
-    },
-    {
       "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\images\\surprised.jpg",
       "PackagePath": "staticwebassets\\images\\surprised.jpg"
     },
     {
+      "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\js\\Cart.js",
+      "PackagePath": "staticwebassets\\js\\Cart.js"
+    },
+    {
       "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\js\\JavaScript.js",
       "PackagePath": "staticwebassets\\js\\JavaScript.js"
+    },
+    {
+      "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\js\\Store.js",
+      "PackagePath": "staticwebassets\\js\\Store.js"
     },
     {
       "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",

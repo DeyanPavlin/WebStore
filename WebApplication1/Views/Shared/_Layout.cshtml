@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="~/css/site.css">
     <link rel="stylesheet" href="~/css/layout.css">
     <script src="~/js/JavaScript.js" defer></script>
+    <script src="~/js/Store.js" defer></script>
+    <script src="~/js/Cart.js" defer></script>
+
 
 </head>
 <body>
@@ -29,7 +32,7 @@
             <button id="theme-switch" class="icon-button">
                 <i class="fa-sharp fa-solid fa-eye"></i>
             </button>
-            <a href="cart.html" class="fa-sharp fa-solid fa-cart-shopping"></a>
+            <a asp-controller="Cart" asp-action="Cart" class="fa-sharp fa-solid fa-cart-shopping"></a>
             <a asp-controller="Home" asp-action="Privacy" class="fa-sharp fa-solid fa-circle-info"></a>
             <a asp-controller="Home" asp-action="Profile" class="fa-sharp fa-solid fa-user"></a>
 

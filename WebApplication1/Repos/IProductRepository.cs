@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using WebApplication1.Controllers;
+﻿using WebApplication1.Models;
 
 namespace WebApplication1.Repos
 {
@@ -7,5 +6,7 @@ namespace WebApplication1.Repos
     {
         void AddProduct(Product product);
         IEnumerable<Product> GetAllProducts();
+        Product GetProductByName(string name);
+        void DeleteProduct(string name);
     }
 }

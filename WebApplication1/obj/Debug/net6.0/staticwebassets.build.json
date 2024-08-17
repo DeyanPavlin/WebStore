@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Av/3oMxwW7idJyVs3yz+wG1VyxVz0pHrKeO8mX4SxKg=",
+  "Hash": "F4kUUlfB3Em3WcXL2KZ+g/PBj5RJ7oyuMe9ScUClNCE=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\Cart.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "css/Cart.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Cart.css"
     },
     {
       "Identity": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\index.css",
@@ -207,25 +226,6 @@
       "OriginalItemSpec": "wwwroot\\images\\github.png"
     },
     {
-      "Identity": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\images\\movies-series-box-set-folder-icons-harrypotter-png-clipart-thumbnail.jpg",
-      "SourceId": "WebApplication1",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\",
-      "BasePath": "_content/WebApplication1",
-      "RelativePath": "images/movies-series-box-set-folder-icons-harrypotter-png-clipart-thumbnail.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\movies-series-box-set-folder-icons-harrypotter-png-clipart-thumbnail.jpg"
-    },
-    {
       "Identity": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\images\\surprised.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -245,6 +245,25 @@
       "OriginalItemSpec": "wwwroot\\images\\surprised.jpg"
     },
     {
+      "Identity": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\js\\Cart.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "js/Cart.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Cart.js"
+    },
+    {
       "Identity": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\js\\JavaScript.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -262,6 +281,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\JavaScript.js"
+    },
+    {
+      "Identity": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\js\\Store.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "js/Store.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Store.js"
     },
     {
       "Identity": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",

@@ -65,7 +65,8 @@ header {
     color: white;
     padding: .9rem 3.5rem;
     cursor: pointer;
-    font-size: 36px;}
+    font-size: 36px;
+}
 
 
 .button:hover{

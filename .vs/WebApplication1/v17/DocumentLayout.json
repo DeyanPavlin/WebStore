@@ -3,24 +3,104 @@
   "WorkspaceRootPath": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\views\\store\\store.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\store\\store.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\wwwroot\\css\\store.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\store.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\wwwroot\\css\\privacy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\privacy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\repos\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repos\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\repos\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repos\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\repos\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repos\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\repos\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repos\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\wwwroot\\js\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\js\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\wwwroot\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\wwwroot\\js\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\js\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\wwwroot\\css\\privacy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\privacy.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\layout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\projects\\webapplication1\\webstore\\webapplication1\\wwwroot\\css\\cart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\css\\cart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,41 +118,223 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StoreController.cs",
-              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Controllers\\StoreController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StoreController.cs",
-              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Controllers\\StoreController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\StoreController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T02:13:43.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Store.cshtml",
-              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Views\\Store\\Store.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Store\\Store.cshtml",
-              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Views\\Store\\Store.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Store\\Store.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAwwCQAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T01:47:19.206Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:53:38.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "store.css",
-              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\store.css",
-              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\store.css",
-              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\store.css",
-              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\store.css",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAEAAAAAUAAAA",
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T18:53:34.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T18:53:27.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T18:53:26.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Views\\Home\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Checkout.cshtml",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Views\\Home\\Checkout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Checkout.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T18:53:23.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Repos\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repos\\ProductRepository.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Repos\\ProductRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repos\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:53:12.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Repos\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repos\\IProductRepository.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Repos\\IProductRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repos\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:53:11.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Repos\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repos\\ICartRepository.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Repos\\ICartRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repos\\ICartRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:53:09.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Repos\\CartRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repos\\CartRepository.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Repos\\CartRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repos\\CartRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:53:07.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Product.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:53:06.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:53:04.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\CartItem.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Models\\CartItem.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:53:02.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:52:57.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CartController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:52:48.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "privacy.css",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\privacy.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\privacy.css",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\privacy.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\privacy.css",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-17T01:17:42.067Z",
+              "WhenOpened": "2024-08-17T18:52:09.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Cart.css",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\Cart.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\Cart.css",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\Cart.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\Cart.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-17T18:51:52.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Views\\Cart\\Cart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Cart\\Cart.cshtml",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Views\\Cart\\Cart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Cart\\Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T18:50:31.143Z",
               "EditorCaption": ""
             },
             {
@@ -83,22 +345,100 @@
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Profile.cshtml",
               "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Views\\Home\\Profile.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Home\\Profile.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-17T00:53:47.793Z",
+              "WhenOpened": "2024-08-17T18:36:00.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "privacy.css",
-              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\privacy.css",
-              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\privacy.css",
-              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\privacy.css",
-              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\privacy.css",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADIAAAAgAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T18:49:39.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "index.css",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\index.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\index.css",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\index.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-16T20:25:31.323Z",
+              "WhenOpened": "2024-08-17T18:52:03.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "layout.css",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\layout.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\layout.css",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\layout.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\layout.css",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-17T18:52:05.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cart.js",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\js\\Cart.js",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\js\\Cart.js",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\js\\Cart.js",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\js\\Cart.js",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-17T18:49:05.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Store.js",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\js\\Store.js",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\js\\Store.js",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\js\\Store.js",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\js\\Store.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-17T18:48:28.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\js\\JavaScript.js",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\js\\JavaScript.js",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\js\\JavaScript.js",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\js\\JavaScript.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-17T18:40:09.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StoreController.cs",
+              "ToolTip": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\StoreController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:06:50.966Z",
               "EditorCaption": ""
             }
           ]
