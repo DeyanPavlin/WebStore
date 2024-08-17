@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "H8jfElJQycabSedwhaH48/9TkWyjWvyX+6CcH+PfjX8=",
+  "Hash": "Av/3oMxwW7idJyVs3yz+wG1VyxVz0pHrKeO8mX4SxKg=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -169,6 +169,25 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\images\\box.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/box.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\box.png"
+    },
+    {
       "Identity": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\images\\github.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -186,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\github.png"
+    },
+    {
+      "Identity": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\images\\movies-series-box-set-folder-icons-harrypotter-png-clipart-thumbnail.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/movies-series-box-set-folder-icons-harrypotter-png-clipart-thumbnail.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\movies-series-box-set-folder-icons-harrypotter-png-clipart-thumbnail.jpg"
     },
     {
       "Identity": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\images\\surprised.jpg",

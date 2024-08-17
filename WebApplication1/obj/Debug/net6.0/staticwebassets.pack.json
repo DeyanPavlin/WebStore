@@ -29,8 +29,16 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\images\\box.png",
+      "PackagePath": "staticwebassets\\images\\box.png"
+    },
+    {
       "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\images\\github.png",
       "PackagePath": "staticwebassets\\images\\github.png"
+    },
+    {
+      "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\images\\movies-series-box-set-folder-icons-harrypotter-png-clipart-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\images\\movies-series-box-set-folder-icons-harrypotter-png-clipart-thumbnail.jpg"
     },
     {
       "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\images\\surprised.jpg",

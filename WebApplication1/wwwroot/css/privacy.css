@@ -9,11 +9,16 @@ h1 {
     text-align: center
 }
 
+h2
+{
+    color: var(--purple);
+}
+
 p {
     font-size: 2rem;
     color: var(--purple);
     text-align: center;
-    margin-top: 100px;
+    margin-top: 5px;
 }
 
 p a{
@@ -22,4 +27,101 @@ p a{
 
 p span {
     color: var(--yellow)
+}
+
+.position-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+
+}
+
+#adminSection {
+    box-sizing: border-box;
+    margin-bottom: -100px;
+    width: fit-content;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 20px;
+    background: white;
+    transition: .4s;
+    position: relative;
+    border: dashed;
+    border-color: var(--yellow);
+}
+
+#adminModeBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5rem;
+    background: var(--yellow);
+    color: white;
+    padding: .9rem 1rem;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+#adminModeBtn:hover {
+    background: var(--purple);
+}
+
+.grid-wrapper {
+    display: grid;
+    place-items: center;
+    justify-content: center;
+}
+
+#adminSection {
+    box-sizing: border-box;
+    margin-bottom: -100px;
+    width: fit-content;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 20px;
+    background: white;
+    transition: .4s;
+    position: relative;
+}
+
+#adminSection label{
+    color: var(--purple);
+}
+
+input[type="text"],
+input[type="number"],
+textarea,
+input[type="file"] {
+    border: 2px solid var(--yellow);
+    padding: 8px;
+    border-radius: 4px;
+    width: 100%;
+    max-width: 300px;
+    height: 40px;
+    padding: 8px;
+    border: 2px solid var(--yellow);
+    border-radius: 4px;
+}
+
+
+input[type="text"]:focus,
+input[type="number"]:focus,
+textarea:focus,
+input[type="file"]:focus {
+    border-color: var(--purple);
+    outline: none;
+}
+
+.add-product-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5rem;
+    background: var(--yellow);
+    color: white;
+    padding: .9rem 1rem;
+    cursor: pointer;
+    font-size: 20px;
+    margin-bottom: 2px;
 }
