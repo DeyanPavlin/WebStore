@@ -1,0 +1,91 @@
+﻿:root {
+    --yellow: #F4BB44;
+    --purple: #a020f0;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: start;
+    gap: 60px;
+}
+
+.element {
+    box-sizing: border-box;
+    margin: 15px;
+    width: 384px;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 20px;
+    background: white;
+    box-shadow: 0 14px 28px black;
+    transition: .4s;
+    position: relative;
+}
+
+    .element img,
+    .element h3,
+    .element {
+        transition: opacity 0.4s ease;
+    }
+
+.info {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.element:hover img,
+.element:hover h3 {
+    opacity: 0;
+}
+
+.element:hover .info {
+    display: block;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+    margin: 0 auto;
+    display: block;
+}
+
+h3 {
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+    padding-top: 10px;
+}
+
+h6{
+    font-size: 26px;
+    text-align: center;
+    color: white;
+}
+
+.buy {
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5rem;
+    background: var(--yellow);
+    color: white;
+    padding: .9rem 3.5rem;
+    cursor: pointer;
+    font-size: 36px;
+}
+
+.buy:hover {
+    background: var(--purple);
+}
+

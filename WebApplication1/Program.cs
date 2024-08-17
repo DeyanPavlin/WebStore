@@ -1,3 +1,5 @@
+using WebApplication1.Repos;
+
 namespace WebApplication1
 {
     public class Program
@@ -8,6 +10,8 @@ namespace WebApplication1
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddSingleton<IProductRepository, ProductRepository>();
 
             var app = builder.Build();
 
@@ -30,7 +34,15 @@ namespace WebApplication1
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
+            app.UseDeveloperExceptionPage();
+
             app.Run();
         }
+        public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddControllersWithViews();
+            services.AddSingleton<IProductRepository, ProductRepository>(); // Register your repository
+        }
+
     }
 }

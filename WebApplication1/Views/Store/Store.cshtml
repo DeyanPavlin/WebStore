@@ -1,0 +1,22 @@
+﻿@model IEnumerable<WebApplication1.Controllers.Product>
+
+<link rel="stylesheet" href="~/css/store.css">
+
+<div class="container">
+    @if (Model != null && Model.Any())
+    {
+        @foreach (var product in Model)
+        {
+            <div class="element">
+                <img src="@product.ImageUrl" alt="Product Image" />
+                <h3>@product.Name</h3>
+                <button class="buy"><h6>@product.Price.ToString("C")</h6></button>
+                <div class="info">@product.Info</div>
+            </div>
+        }
+    }
+    else
+    {
+        <p>No products available.</p>
+    }
+</div>
