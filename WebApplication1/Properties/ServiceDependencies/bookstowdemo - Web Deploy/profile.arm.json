@@ -21,7 +21,7 @@
     },
     "resourceName": {
       "type": "string",
-      "defaultValue": "WebApplication120240817223024",
+      "defaultValue": "bookstowdemo",
       "metadata": {
         "description": "Name of the main resource to be created by this template."
       }
