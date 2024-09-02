@@ -99,3 +99,49 @@ header {
 .icon-button:focus {
     outline: none; 
 }
+
+@media only screen and (max-width: 400px) {
+    main {
+        margin-top: 10rem;
+        margin-left: 1rem;
+        padding: 20px;
+    }
+
+    header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        padding: 2rem 9%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        z-index: 1000;
+    }
+
+    .logo {
+        font-size: 1rem;
+    }
+
+    .button {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: var(--yellow);
+        color: white;
+        padding: .9rem 3.5rem;
+        font-size: 36px;
+    }
+
+
+    .icons a {
+        font-size: 0.5rem;
+        color: var(--purple);
+        margin-left: 1.5rem;
+    }
+
+    .icon-button {
+        font-size: 2.5rem;
+        margin-left: 1.5rem;
+    }
+}

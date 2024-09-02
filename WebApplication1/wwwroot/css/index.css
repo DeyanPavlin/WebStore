@@ -44,3 +44,6 @@
     position: relative;
     top: 17px;
 }
+
+@media only screen and (max-width: 400px) {
+}

@@ -21,10 +21,6 @@
       "PackagePath": "staticwebassets\\css\\privacy.css"
     },
     {
-      "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
       "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\css\\store.css",
       "PackagePath": "staticwebassets\\css\\store.css"
     },
@@ -35,10 +31,6 @@
     {
       "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\images\\box.png",
       "PackagePath": "staticwebassets\\images\\box.png"
-    },
-    {
-      "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\images\\github.png",
-      "PackagePath": "staticwebassets\\images\\github.png"
     },
     {
       "Id": "D:\\Programming\\Projects\\WebApplication1\\WebStore\\WebApplication1\\wwwroot\\images\\surprised.jpg",
