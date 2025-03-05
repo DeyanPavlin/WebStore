@@ -1,0 +1,16 @@
+# Ignore compiled files and output
+/bin/
+/obj/
+/out/
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+
+# Ignore Azure-specific files
+azure-pipelines.yml
