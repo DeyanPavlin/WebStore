@@ -60,3 +60,8 @@ D:\Programming\WebStore\WebApplication1\obj\Release\net6.0\refint\WebApplication
 D:\Programming\WebStore\WebApplication1\obj\Release\net6.0\WebApplication1.pdb
 D:\Programming\WebStore\WebApplication1\obj\Release\net6.0\WebApplication1.genruntimeconfig.cache
 D:\Programming\WebStore\WebApplication1\obj\Release\net6.0\ref\WebApplication1.dll
+D:\Programming\WebStore\WebApplication1\bin\Release\net6.0\out\web.config
+D:\Programming\WebStore\WebApplication1\bin\Release\net6.0\out\appsettings.Development.json
+D:\Programming\WebStore\WebApplication1\bin\Release\net6.0\out\appsettings.json
+D:\Programming\WebStore\WebApplication1\bin\Release\net6.0\out\WebApplication1.deps.json
+D:\Programming\WebStore\WebApplication1\bin\Release\net6.0\out\WebApplication1.runtimeconfig.json
