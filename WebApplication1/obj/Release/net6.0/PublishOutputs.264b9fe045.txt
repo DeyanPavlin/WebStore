@@ -1,0 +1,7 @@
+D:\Programming\WebStore\WebApplication1\out\WebApplication1.exe
+D:\Programming\WebStore\WebApplication1\out\appsettings.Development.json
+D:\Programming\WebStore\WebApplication1\out\appsettings.json
+D:\Programming\WebStore\WebApplication1\out\WebApplication1.dll
+D:\Programming\WebStore\WebApplication1\out\WebApplication1.deps.json
+D:\Programming\WebStore\WebApplication1\out\WebApplication1.runtimeconfig.json
+D:\Programming\WebStore\WebApplication1\out\WebApplication1.pdb
