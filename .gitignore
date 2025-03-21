@@ -1,11 +1,7 @@
 # Ignore compiled files and output
 /bin/
 /obj/
-/out/
-*.dll
-*.exe
-*.pdb
-*.cache
+# /out/  <- REMOVE THIS LINE
 
 # Ignore user-specific files
 *.user
