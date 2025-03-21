@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Programming\\WebStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\webstore\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{617F0444-EC30-48F9-B4A6-3EC8BC7CE3C5}|NewFolder1{617F0444-EC30-48F9-B4A6-3EC8BC7CE3C5}|D:\\Programming\\WebStore\\Dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{617F0444-EC30-48F9-B4A6-3EC8BC7CE3C5}|NewFolder1{617F0444-EC30-48F9-B4A6-3EC8BC7CE3C5}|solutionrelative:Dockerfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\webstore\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\webstore\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\webstore\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dockerfile.txt",
+              "DocumentMoniker": "D:\\Programming\\WebStore\\Dockerfile.txt",
+              "RelativeDocumentMoniker": "Dockerfile.txt",
+              "ToolTip": "D:\\Programming\\WebStore\\Dockerfile.txt",
+              "RelativeToolTip": "Dockerfile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-21T11:55:03.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\WebStore\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Programming\\WebStore\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "index.css",
               "DocumentMoniker": "D:\\Programming\\WebStore\\WebApplication1\\wwwroot\\css\\index.css",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\index.css",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Programming\\WebStore\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
@@ -100,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Programming\\WebStore\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",

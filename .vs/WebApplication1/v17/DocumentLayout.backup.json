@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Programming\\WebStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\webstore\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|d:\\programming\\webstore\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0DB2A888-6AB2-4718-AB59-85A4612342AD}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\WebStore\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\Programming\\WebStore\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:43:23.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Programming\\WebStore\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T01:02:58.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T01:02:58.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "index.css",
               "DocumentMoniker": "D:\\Programming\\WebStore\\WebApplication1\\wwwroot\\css\\index.css",
               "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\index.css",
@@ -55,12 +71,11 @@
               "RelativeToolTip": "WebApplication1\\wwwroot\\css\\index.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-05T01:02:56.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T01:02:56.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Programming\\WebStore\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
@@ -68,13 +83,12 @@
               "RelativeToolTip": "WebApplication1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T01:01:32.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T01:01:32.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WebApplication1",
+              "DocumentIndex": 1,
+              "Title": "WebApplication1.csproj",
               "DocumentMoniker": "D:\\Programming\\WebStore\\WebApplication1\\WebApplication1.csproj",
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
               "ToolTip": "D:\\Programming\\WebStore\\WebApplication1\\WebApplication1.csproj",
@@ -86,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Programming\\WebStore\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
@@ -94,8 +108,7 @@
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T10:04:47.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T10:04:47.343Z"
             }
           ]
         }
